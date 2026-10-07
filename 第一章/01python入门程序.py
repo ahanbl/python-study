@@ -1,0 +1,7 @@
+# 需求:往控制台中输出Hello,world,Hello Python (# Python中注释的写法,注释是写给开发人员看的,python解释器会忽略注释.快捷键: Ctrl + / )
+print("##########")
+print("#白日依山尽#")
+print("#黄河入海流#")
+print("#欲穷千里目#")
+print("#更上一层楼#")
+print("##########")
